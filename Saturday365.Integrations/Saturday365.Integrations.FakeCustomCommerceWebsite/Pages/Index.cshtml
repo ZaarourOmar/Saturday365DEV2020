@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+    <div class="text-center">
+        <h1 class="display-4">This list of account is always up to date and it matches our accounts in CDS</h1>
+
+
+
+        <table class="table">
+            <thead>
+                <tr class="bg-primary">
+                    <th>Account Name</th>
+                    <th>Account Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var account in Model.AllAccounts)
+                {
+                    <tr>
+                        <td class="bg-info">@account.AccountName</td>
+                        <td class="bg-info">@account.AccountNumber</td>
+                        <td>
+                            @*<a asp-action="Edit" asp-route-id="@">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@question.Id">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@question.Id">Delete</a>*@
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+<script>
+    setTimeout(function () {
+        location.reload();
+    }, 6000);
+</script>

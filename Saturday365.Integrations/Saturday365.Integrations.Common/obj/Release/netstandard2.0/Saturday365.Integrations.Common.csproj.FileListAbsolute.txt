@@ -1,0 +1,9 @@
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\bin\Release\netstandard2.0\Saturday365.Integrations.Common.deps.json
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\bin\Release\netstandard2.0\Saturday365.Integrations.Common.dll
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\bin\Release\netstandard2.0\Saturday365.Integrations.Common.pdb
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\obj\Release\netstandard2.0\Saturday365.Integrations.Common.csprojAssemblyReference.cache
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\obj\Release\netstandard2.0\Saturday365.Integrations.Common.AssemblyInfoInputs.cache
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\obj\Release\netstandard2.0\Saturday365.Integrations.Common.AssemblyInfo.cs
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\obj\Release\netstandard2.0\Saturday365.Integrations.Common.csproj.CoreCompileInputs.cache
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\obj\Release\netstandard2.0\Saturday365.Integrations.Common.dll
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Common\obj\Release\netstandard2.0\Saturday365.Integrations.Common.pdb

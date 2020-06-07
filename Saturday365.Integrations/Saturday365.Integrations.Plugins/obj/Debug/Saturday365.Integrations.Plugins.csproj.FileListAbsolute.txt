@@ -1,0 +1,10 @@
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\bin\Debug\Saturday365.Integrations.Plugins.dll
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\bin\Debug\Saturday365.Integrations.Plugins.pdb
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\obj\Debug\Saturday365.Integrations.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\obj\Debug\Saturday365.Integrations.Plugins.csproj.CopyComplete
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\obj\Debug\Saturday365.Integrations.Plugins.dll
+C:\Users\zarou\source\repos\Saturday365.Integrations\Saturday365.Integrations.Plugins\obj\Debug\Saturday365.Integrations.Plugins.pdb
